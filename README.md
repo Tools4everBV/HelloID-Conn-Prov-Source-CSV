@@ -2,11 +2,11 @@
 
 Example for using a CSV as a source system
 
-##Persons CSV
+## Persons CSV
 ID,FirstName,MiddleName,LastName,PreferredName,BirthDate,Gender,PersonalEmail,HomePhone,MobilePhone
 
-##Contracts CSV
+## Contracts CSV
 ID,PersonID,DepartmentID,LocationID,StartDate,EndDate,Title
 
-##Departments CSV
+## Departments CSV
 ID,Name,ManagerID
