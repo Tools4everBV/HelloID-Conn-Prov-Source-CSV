@@ -1,0 +1,32 @@
+[
+  {
+    "key": "personsPath",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Persons CSV Path",
+      "placeholder": "C:\\Data\\Persons.csv",
+      "required": true
+    }
+  },
+  {
+    "key": "contractsPath",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Contracts CSV Path",
+      "placeholder": "C:\\Data\\Contracts.csv",
+      "required": true
+    }
+  },
+  {
+    "key": "departmentsPath",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Departments CSV Path",
+      "placeholder": "C:\\Data\\Departments.csv",
+      "required": true
+    }
+  }
+]
