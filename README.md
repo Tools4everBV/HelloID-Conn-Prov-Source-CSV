@@ -10,3 +10,6 @@ ID,PersonID,DepartmentID,LocationID,StartDate,EndDate,Title
 
 ## Departments CSV
 ID,Name,ManagerID
+
+# HelloID Docs
+The official HelloID documentation can be found at: https://docs.helloid.com/
