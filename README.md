@@ -1,5 +1,9 @@
 # HelloID-Conn-Prov-Source-CSV
-
+<br />
+<p align="center">
+  <img src="https://www.tools4ever.nl/connector-logos/csv-logo.png">
+</p>
+<br />
 Example for using a CSV as a source system
 
 ## Persons CSV
